@@ -1,12 +1,12 @@
 import React, { useState } from 'react'
 
 const Flashcard = ({ question, answer }) => {
-  const [showing, setShowing] = useState(question)
+  const [questionMode, setQuestionMode] = useState(true)
   return (
     <div>
-      <div>Question: </div>
-      <div>{showing}</div>
-      <div>Switch</div>
+      <div>{questionMode ? 'Question?' : 'Answer:'}</div>
+      <div>{questionMode ? question : answer}</div>
+      <div onClick={() => setQuestionMode(!questionMode)}>Switch</div>
     </div>
   )
 }
