@@ -1,5 +1,6 @@
 import './App.css'
 import Trainer from './components/Trainer/Trainer'
+import questions from './questions'
 
 function App() {
   return (
@@ -8,7 +9,7 @@ function App() {
       {/* TODO design a progression thru questions */}
       {/* TODO counters for right and wrong answers */}
       {/* TODO basically like https://www.cram.com/flashcards/cultural-anthropology-chapter-1-2504264 */}
-      <Trainer />
+      <Trainer questions={questions} />
     </div>
   )
 }
