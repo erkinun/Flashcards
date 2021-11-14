@@ -10,6 +10,12 @@
   max-width: 600px;
 }
 
+@media only screen and (max-width: 500px) {
+  .trainer {
+    width: 300px;
+  }
+}
+
 .trainer > .panel {
   display: flex;
 }
