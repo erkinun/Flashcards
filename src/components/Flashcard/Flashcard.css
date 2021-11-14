@@ -18,9 +18,9 @@
 .flashcard > .content {
   background-color: #f4f2e7;
   border-radius: 5px;
-  font-size: 1.5vw;
+  font-size: 1.5vh;
   height: 100px;
-  line-height: 3vw;
+  line-height: 3vh;
   padding: 10px 20px;
   overflow: auto;
   width: 100%;
