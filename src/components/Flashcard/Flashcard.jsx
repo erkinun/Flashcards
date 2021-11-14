@@ -1,9 +1,10 @@
-import React, { useState } from 'react'
+import React, { useEffect, useState } from 'react'
 import Button from 'react-bootstrap/Button'
 import './Flashcard.css'
 
 const Flashcard = ({ question, answer }) => {
   const [questionMode, setQuestionMode] = useState(true)
+  useEffect(() => setQuestionMode(true), [question, answer])
   return (
     <div className='flashcard'>
       <div className='header'>{questionMode ? 'Question?' : 'Answer:'}</div>
