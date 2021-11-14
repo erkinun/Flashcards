@@ -1,10 +1,14 @@
 import './App.css'
-import Flashcard from './components/Flashcard/Flashcard'
+import Trainer from './components/Trainer/Trainer'
 
 function App() {
   return (
     <div className='App'>
-      <Flashcard question={'What is the meaning of life?'} answer={42} />
+      {/* TODO load a series of questions */}
+      {/* TODO design a progression thru questions */}
+      {/* TODO counters for right and wrong answers */}
+      {/* TODO basically like https://www.cram.com/flashcards/cultural-anthropology-chapter-1-2504264 */}
+      <Trainer />
     </div>
   )
 }
