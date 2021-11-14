@@ -8,3 +8,11 @@
   width: 500px;
   max-width: 600px;
 }
+
+.trainer > .panel {
+  display: flex;
+}
+
+.trainer > .buttons > button {
+  margin: 5px;
+}
