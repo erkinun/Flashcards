@@ -163,6 +163,90 @@ const questions = [
       'Which of the following was one of the commanders in the defeat of the Spanish Armada and one of the founders of England’s naval tradition?',
     answer: 'Sir Francis Drake',
   },
+  {
+    question: 'Edward VI son of Henry VIII was Catholic or Protestant',
+    answer: 'Protestant',
+  },
+  {
+    question: 'Which is scottish? Scotch eggs / Haggis',
+    answer: 'Haggis - sheep stomach dish',
+  },
+  {
+    question: 'Is Beowulf a middle ages poem?',
+    answer: 'No',
+  },
+  {
+    question:
+      'Passport to Pimlico, The ladykillers and Carry On are which kind of films?',
+    answer: 'Comedies',
+  },
+  {
+    question: 'Which organisation looks after the Edinburgh Castle?',
+    answer: 'Historic Scotland',
+  },
+  {
+    question: 'How many casualties in WWI?',
+    answer: 'two million',
+  },
+  {
+    question: 'Who did Mary, Queen of Scots give her throne to?',
+    answer: 'Her son james VI',
+  },
+  {
+    question: 'Who was sir Francis Chichester',
+    answer: 'First person to sail around the world?',
+  },
+  {
+    question: 'At what age can you drive a car or motorcycle in the UK?',
+    answer: '17',
+  },
+  {
+    question: 'What scottish painter is known for The origin of Painting',
+    answer: 'David Allan',
+  },
+  {
+    question: 'Where is the Statue of Boudicca queen of Iceni?',
+    answer: 'Westminster Bridge',
+  },
+  { question: 'When was battle of Bannockburn?', answer: '1314' },
+  {
+    question: 'British poets about WW1',
+    answer: 'Siegfried Sassoon and Wilfred Owen',
+  },
+  {
+    question: 'Dame Ellen Marchartur is famous for?',
+    answer: 'Fastest person to sail around the world, single handed',
+  },
+  {
+    question: 'Since when has the man booker prize been awarded?',
+    answer: '1968',
+  },
+  {
+    question: 'Why is Leamington spa famous?',
+    answer: 'First tennis club was founded there',
+  },
+  {
+    question: 'Which two Henry VIII wifes are executed?',
+    answer: 'anna boleyn and Catherine Howard',
+  },
+  {
+    question: 'Two types of rugby?',
+    answer: 'union and league',
+  },
+  {
+    question: 'Two famous british film directors?',
+    answer: 'Alfred Hitchcock and Sir Alexander Korda',
+  },
+  { question: 'Royal Society was formed by?', answer: 'Charles I' },
+  {
+    question: 'Bradley wiggins is famous for?',
+    answer: 'winning tour de france',
+  },
+  {
+    question:
+      'Austen Butler who introduced Education act 1944 was from which party?',
+    answer: 'Conservative',
+  },
 ]
 
 export default questions
