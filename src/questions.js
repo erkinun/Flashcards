@@ -247,6 +247,134 @@ const questions = [
       'Austen Butler who introduced Education act 1944 was from which party?',
     answer: 'Conservative',
   },
+  {
+    question: 'Where was Newton born?',
+    answer: 'Linconshire',
+  },
+  { question: 'Who painted Dedham Vale?', answer: 'John Constable' },
+  {
+    question: 'Where was Dylan Thomas the writer born',
+    answer: 'Swansea',
+  },
+  {
+    question:
+      'Architectural significance of a country house: Hardwick Hall or Elgin manor?',
+    answer: 'Hardwick Hall',
+  },
+  {
+    question: 'Who is the bard of Scotland?',
+    answer: 'Robert Burns',
+  },
+  {
+    question: 'How many members are in the Senedd?',
+    answer: '120',
+  },
+  {
+    question: 'Why did they build the London Eye?',
+    answer: 'To celebrate the new millenium',
+  },
+  {
+    question: 'Which Scottish co discovered the insulin?',
+    answer: 'John Macleod',
+  },
+  {
+    question: 'What architectural style was popular in 19th century?',
+    answer: 'Gothic',
+  },
+  {
+    question: 'how many kids did elisabeth 1 had?',
+    answer: 'none',
+  },
+  {
+    question: 'How many on jury in Scotland?',
+    answer: '15',
+  },
+  {
+    question: 'How many on jury in England, Wales and Northern Ireland?',
+    answer: '12',
+  },
+  {
+    question: 'From Music Hall to TV stars?',
+    answer: 'Morecambe and Wise',
+  },
+  {
+    question: 'Who wrote the poem Home Thoughts from Abroad?',
+    answer: 'Robert Browning',
+  },
+  {
+    question:
+      'What did the Scottish do after Charles 1 imposed the stupid prayer book?',
+    answer: 'They invaded England:)',
+  },
+  {
+    question: 'What is the prize for Theatre?',
+    answer: 'The Laurance Olivier Awards',
+  },
+  {
+    question: 'When did Britain get separated from the continent permanently?',
+    answer: '10000 years ago',
+  },
+  {
+    question: 'Famous garden in Scotland?',
+    answer: 'Inveraray Castle',
+  },
+  {
+    question: 'Who is sir Roger Bannister?',
+    answer: 'He ran 1 mile under 4 minutes for the first time',
+  },
+  {
+    question: 'Who invented the ATM in 60s?',
+    answer: 'James Goodfellow',
+  },
+  {
+    question: 'How long was the Hundred Years War?',
+    answer: '116',
+  },
+  {
+    question: 'Where was Sake Dean Mahomet raised?',
+    answer: 'Bengal region of India',
+  },
+  {
+    question: 'Beveridge was member of which party?',
+    answer: 'Liberal',
+  },
+  {
+    question: 'Where and When was Battle of Boyne?',
+    answer: 'Ireland, 1690 - William orange defeated James II',
+  },
+  {
+    question: 'Kingsley Amis" most famous book?',
+    answer: 'Lucky Jim',
+  },
+  {
+    question: 'Why is sir John Lavery famous?',
+    answer: 'He painted the Royal Family',
+  },
+  {
+    question: 'Who killed Richard III at the battle of Bosworth FIeld?',
+    answer: 'Henry Tudor',
+  },
+  {
+    question: 'Which garden is in the nOrthern Ireland?',
+    answer: 'Mount Stewart',
+  },
+  {
+    question: 'John Petts is famous for?',
+    answer: 'Stained glass and Engravings',
+  },
+  {
+    question: 'Graham Greenes famous novel?',
+    answer: 'The heart of the matter',
+  },
+  {
+    question: 'how old for Moped?',
+    answer: '16',
+  },
+  {
+    question: 'Jackie Stewart?',
+    answer: 'Formula 1 Winner',
+  },
+  { question: 'when was the enlightment?', answer: '18th Century' },
 ]
 
 export default questions
